@@ -1,0 +1,94 @@
+absl-py==0.15.0
+appdirs==1.4.4
+astunparse==1.6.3
+audioread==2.1.9
+backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
+cached-property==1.5.2
+cachetools==4.2.4
+certifi==2021.5.30
+cffi==1.15.0
+charset-normalizer==2.0.7
+clang==5.0
+cycler==0.10.0
+dataclasses==0.8
+decorator @ file:///tmp/build/80754af9/decorator_1632776554403/work
+entrypoints==0.3
+flatbuffers==1.12
+gast==0.4.0
+google-auth==2.3.0
+google-auth-oauthlib==0.4.6
+google-pasta==0.2.0
+grpcio==1.41.1
+h5py==3.1.0
+idna==3.3
+importlib-metadata==4.8.1
+ipykernel @ file:///tmp/build/80754af9/ipykernel_1596206602906/work/dist/ipykernel-5.3.4-py3-none-any.whl
+ipython @ file:///tmp/build/80754af9/ipython_1593447367857/work
+ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
+jedi==0.18.0
+joblib==1.1.0
+jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1630690655192/work
+jupyter-core @ file:///tmp/build/80754af9/jupyter_core_1633420100582/work
+kapre==0.3.5
+keras==2.6.0
+Keras-Preprocessing==1.1.2
+kiwisolver==1.3.1
+labelImg==1.8.6
+librosa==0.8.1
+llvmlite==0.36.0
+lxml==4.6.4
+Markdown==3.3.4
+matplotlib==3.3.4
+nest-asyncio @ file:///tmp/build/80754af9/nest-asyncio_1613680548246/work
+noisereduce==2.0.0
+numba==0.53.1
+numpy==1.19.5
+oauthlib==3.1.1
+opt-einsum==3.3.0
+packaging==21.0
+pandas==1.1.5
+parso @ file:///tmp/build/80754af9/parso_1617223946239/work
+pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
+pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
+Pillow==8.4.0
+pooch==1.5.2
+prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1633440160888/work
+protobuf==3.19.0
+ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pycparser==2.20
+Pygments @ file:///tmp/build/80754af9/pygments_1629234116488/work
+pyparsing==2.4.7
+PyQt5==5.15.6
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.9.0
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pytz==2021.3
+pyzmq @ file:///tmp/build/80754af9/pyzmq_1628268400816/work
+requests==2.26.0
+requests-oauthlib==1.3.0
+resampy==0.2.2
+rsa==4.7.2
+scikit-learn==0.24.2
+scipy==1.5.4
+seaborn==0.11.2
+six @ file:///tmp/build/80754af9/six_1623709665295/work
+sklearn==0.0
+SoundFile==0.10.3.post1
+tensorboard==2.7.0
+tensorboard-data-server==0.6.1
+tensorboard-plugin-wit==1.8.0
+tensorflow==2.6.0
+tensorflow-estimator==2.6.0
+termcolor==1.1.0
+threadpoolctl==3.0.0
+tornado @ file:///tmp/build/80754af9/tornado_1606942266872/work
+tqdm==4.62.3
+traitlets @ file:///tmp/build/80754af9/traitlets_1632746497744/work
+typing-extensions==3.7.4.3
+urllib3==1.26.7
+wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
+Werkzeug==2.0.2
+wrapt==1.12.1
+zipp==3.6.0
