@@ -29,7 +29,8 @@
     (1) audio preprocessing
     (2) extract audio features
     (3) stft / mfcc 
-    (4) neural network training 
+    (4) noise suppression
+    (5) neural network training 
 
 
 
