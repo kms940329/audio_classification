@@ -22,6 +22,8 @@
 (2) only rescue request
     - rescue request audio with drone noise (using it to classification)
     
+    
+    
 ## train
 
 (1) audio preprocessing
